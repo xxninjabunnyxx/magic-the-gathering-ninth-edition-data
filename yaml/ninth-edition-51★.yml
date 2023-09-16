@@ -1,0 +1,107 @@
+---
+object: card
+id: 249c1078-6c7b-41c6-9eca-eb2509ea7253
+oracle_id: 5c5cfa6d-857f-44a9-80f7-46f016ef71e4
+multiverse_ids: []
+tcgplayer_id: 12871
+name: Venerable Monk
+lang: en
+released_at: '2005-07-29'
+uri: https://api.scryfall.com/cards/249c1078-6c7b-41c6-9eca-eb2509ea7253
+scryfall_uri: https://scryfall.com/card/9ed/51%E2%98%85/venerable-monk?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/2/4/249c1078-6c7b-41c6-9eca-eb2509ea7253.jpg?1675829150
+  normal: https://cards.scryfall.io/normal/front/2/4/249c1078-6c7b-41c6-9eca-eb2509ea7253.jpg?1675829150
+  large: https://cards.scryfall.io/large/front/2/4/249c1078-6c7b-41c6-9eca-eb2509ea7253.jpg?1675829150
+  png: https://cards.scryfall.io/png/front/2/4/249c1078-6c7b-41c6-9eca-eb2509ea7253.png?1675829150
+  art_crop: https://cards.scryfall.io/art_crop/front/2/4/249c1078-6c7b-41c6-9eca-eb2509ea7253.jpg?1675829150
+  border_crop: https://cards.scryfall.io/border_crop/front/2/4/249c1078-6c7b-41c6-9eca-eb2509ea7253.jpg?1675829150
+mana_cost: "{2}{W}"
+cmc: 3.0
+type_line: Creature — Human Monk Cleric
+oracle_text: When Venerable Monk enters the battlefield, you gain 2 life.
+power: '2'
+toughness: '2'
+colors:
+- W
+color_identity:
+- W
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: e70c8572-4732-4e92-a140-b4e3c1c84c93
+set: 9ed
+set_name: Ninth Edition
+set_type: core
+set_uri: https://api.scryfall.com/sets/e70c8572-4732-4e92-a140-b4e3c1c84c93
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3A9ed&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/9ed?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/249c1078-6c7b-41c6-9eca-eb2509ea7253/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A5c5cfa6d-857f-44a9-80f7-46f016ef71e4&unique=prints
+collector_number: 51★
+digital: false
+rarity: common
+flavor_text: Age wears the flesh but galvanizes the soul.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: D. Alexander Gregory
+artist_ids:
+- 38433e15-f0f5-4223-a985-2d13c4aa0922
+illustration_id: 82e48d71-581f-4f4b-a006-910de15f1171
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 21548
+penny_rank: 13175
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Venerable+Monk&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Venerable+Monk&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Venerable+Monk
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/12871?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Venerable+Monk&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Venerable+Monk&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

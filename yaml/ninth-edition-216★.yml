@@ -1,0 +1,109 @@
+---
+object: card
+id: fe4d8327-49ed-40d0-ade3-459c9f9c4832
+oracle_id: 64bf8929-f5f2-4d50-8667-13b1d007bcfc
+multiverse_ids: []
+tcgplayer_id: 12811
+name: Seething Song
+lang: en
+released_at: '2005-07-29'
+uri: https://api.scryfall.com/cards/fe4d8327-49ed-40d0-ade3-459c9f9c4832
+scryfall_uri: https://scryfall.com/card/9ed/216%E2%98%85/seething-song?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/f/e/fe4d8327-49ed-40d0-ade3-459c9f9c4832.jpg?1675829375
+  normal: https://cards.scryfall.io/normal/front/f/e/fe4d8327-49ed-40d0-ade3-459c9f9c4832.jpg?1675829375
+  large: https://cards.scryfall.io/large/front/f/e/fe4d8327-49ed-40d0-ade3-459c9f9c4832.jpg?1675829375
+  png: https://cards.scryfall.io/png/front/f/e/fe4d8327-49ed-40d0-ade3-459c9f9c4832.png?1675829375
+  art_crop: https://cards.scryfall.io/art_crop/front/f/e/fe4d8327-49ed-40d0-ade3-459c9f9c4832.jpg?1675829375
+  border_crop: https://cards.scryfall.io/border_crop/front/f/e/fe4d8327-49ed-40d0-ade3-459c9f9c4832.jpg?1675829375
+mana_cost: "{2}{R}"
+cmc: 3.0
+type_line: Instant
+oracle_text: Add {R}{R}{R}{R}{R}.
+colors:
+- R
+color_identity:
+- R
+keywords: []
+produced_mana:
+- R
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: banned
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: e70c8572-4732-4e92-a140-b4e3c1c84c93
+set: 9ed
+set_name: Ninth Edition
+set_type: core
+set_uri: https://api.scryfall.com/sets/e70c8572-4732-4e92-a140-b4e3c1c84c93
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3A9ed&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/9ed?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/fe4d8327-49ed-40d0-ade3-459c9f9c4832/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A64bf8929-f5f2-4d50-8667-13b1d007bcfc&unique=prints
+collector_number: 216★
+digital: false
+rarity: common
+flavor_text: |-
+  "The purest ore is produced from the hottest furnace, and the brightest thunder-bolt is elicited from the darkest storm."
+  —Charles Colton
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Martina Pilcerova
+artist_ids:
+- 30fead7c-da53-4c1b-b514-4be6e5ce487c
+illustration_id: b886c4e2-c1be-4f5c-b7ec-c67cf3e4c1c2
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 464
+penny_rank: 275
+prices:
+  usd: 
+  usd_foil: '34.15'
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Seething+Song&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Seething+Song&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Seething+Song
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/12811?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Seething+Song&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Seething+Song&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

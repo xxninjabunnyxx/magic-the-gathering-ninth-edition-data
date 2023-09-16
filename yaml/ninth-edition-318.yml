@@ -1,0 +1,115 @@
+---
+object: card
+id: d5064361-a8c7-4002-908a-992252641572
+oracle_id: 6b75b94e-83b7-457e-ac41-7ca90b5a59aa
+multiverse_ids:
+- 84443
+mtgo_id: 22649
+mtgo_foil_id: 22650
+tcgplayer_id: 12579
+cardmarket_id: 12283
+name: Battlefield Forge
+lang: en
+released_at: '2005-07-29'
+uri: https://api.scryfall.com/cards/d5064361-a8c7-4002-908a-992252641572
+scryfall_uri: https://scryfall.com/card/9ed/318/battlefield-forge?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/d/5/d5064361-a8c7-4002-908a-992252641572.jpg?1562742273
+  normal: https://cards.scryfall.io/normal/front/d/5/d5064361-a8c7-4002-908a-992252641572.jpg?1562742273
+  large: https://cards.scryfall.io/large/front/d/5/d5064361-a8c7-4002-908a-992252641572.jpg?1562742273
+  png: https://cards.scryfall.io/png/front/d/5/d5064361-a8c7-4002-908a-992252641572.png?1562742273
+  art_crop: https://cards.scryfall.io/art_crop/front/d/5/d5064361-a8c7-4002-908a-992252641572.jpg?1562742273
+  border_crop: https://cards.scryfall.io/border_crop/front/d/5/d5064361-a8c7-4002-908a-992252641572.jpg?1562742273
+mana_cost: ''
+cmc: 0.0
+type_line: Land
+oracle_text: |-
+  {T}: Add {C}.
+  {T}: Add {R} or {W}. Battlefield Forge deals 1 damage to you.
+colors: []
+color_identity:
+- R
+- W
+keywords: []
+produced_mana:
+- C
+- R
+- W
+legalities:
+  standard: legal
+  future: legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: legal
+  historicbrawl: legal
+  alchemy: legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: e70c8572-4732-4e92-a140-b4e3c1c84c93
+set: 9ed
+set_name: Ninth Edition
+set_type: core
+set_uri: https://api.scryfall.com/sets/e70c8572-4732-4e92-a140-b4e3c1c84c93
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3A9ed&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/9ed?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/d5064361-a8c7-4002-908a-992252641572/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A6b75b94e-83b7-457e-ac41-7ca90b5a59aa&unique=prints
+collector_number: '318'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Darrell Riche
+artist_ids:
+- 262c8e55-4efc-467b-a042-6f734b9d2e01
+illustration_id: f9ae314a-7936-40f2-8a8d-8cf5dd876901
+border_color: white
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 202
+penny_rank: 163
+prices:
+  usd: '2.70'
+  usd_foil: 
+  usd_etched: 
+  eur: '1.10'
+  eur_foil: 
+  tix: '0.02'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=84443
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Battlefield+Forge&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Battlefield+Forge&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Battlefield+Forge
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/12579?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Battlefield+Forge&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/22649?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

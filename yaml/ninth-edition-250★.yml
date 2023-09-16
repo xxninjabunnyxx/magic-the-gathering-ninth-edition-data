@@ -1,0 +1,109 @@
+---
+object: card
+id: 6450a333-9776-4cda-a369-f9342e5b0278
+oracle_id: f9ca35e1-24c5-46f4-a666-0dfe2c920e8b
+multiverse_ids: []
+tcgplayer_id: 12711
+name: King Cheetah
+lang: en
+released_at: '2005-07-29'
+uri: https://api.scryfall.com/cards/6450a333-9776-4cda-a369-f9342e5b0278
+scryfall_uri: https://scryfall.com/card/9ed/250%E2%98%85/king-cheetah?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/6/4/6450a333-9776-4cda-a369-f9342e5b0278.jpg?1675829450
+  normal: https://cards.scryfall.io/normal/front/6/4/6450a333-9776-4cda-a369-f9342e5b0278.jpg?1675829450
+  large: https://cards.scryfall.io/large/front/6/4/6450a333-9776-4cda-a369-f9342e5b0278.jpg?1675829450
+  png: https://cards.scryfall.io/png/front/6/4/6450a333-9776-4cda-a369-f9342e5b0278.png?1675829450
+  art_crop: https://cards.scryfall.io/art_crop/front/6/4/6450a333-9776-4cda-a369-f9342e5b0278.jpg?1675829450
+  border_crop: https://cards.scryfall.io/border_crop/front/6/4/6450a333-9776-4cda-a369-f9342e5b0278.jpg?1675829450
+mana_cost: "{3}{G}"
+cmc: 4.0
+type_line: Creature — Cat
+oracle_text: Flash
+power: '3'
+toughness: '2'
+colors:
+- G
+color_identity:
+- G
+keywords:
+- Flash
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: e70c8572-4732-4e92-a140-b4e3c1c84c93
+set: 9ed
+set_name: Ninth Edition
+set_type: core
+set_uri: https://api.scryfall.com/sets/e70c8572-4732-4e92-a140-b4e3c1c84c93
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3A9ed&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/9ed?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/6450a333-9776-4cda-a369-f9342e5b0278/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Af9ca35e1-24c5-46f4-a666-0dfe2c920e8b&unique=prints
+collector_number: 250★
+digital: false
+rarity: uncommon
+flavor_text: |-
+  If you find yourself and a friend being chased by a king cheetah, you have but one chance: Trip your friend.
+  —Suq'Ata wisdom
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Terese Nielsen
+artist_ids:
+- eb55171c-2342-45f4-a503-2d5a75baf752
+illustration_id: 5242cf73-84d8-4c86-ad55-e122f8caed99
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 23645
+prices:
+  usd: 
+  usd_foil: '7.96'
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=King+Cheetah&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=King+Cheetah&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=King+Cheetah
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/12711?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=King+Cheetah&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=King+Cheetah&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

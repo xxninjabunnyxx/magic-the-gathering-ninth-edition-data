@@ -1,0 +1,106 @@
+---
+object: card
+id: 34fd1962-1d11-4d4c-a273-73a1384a88f1
+oracle_id: dc1c0e8c-d0c1-445c-968f-7dec91e5d5fc
+multiverse_ids: []
+tcgplayer_id: 12785
+name: Relentless Assault
+lang: en
+released_at: '2005-07-29'
+uri: https://api.scryfall.com/cards/34fd1962-1d11-4d4c-a273-73a1384a88f1
+scryfall_uri: https://scryfall.com/card/9ed/212%E2%98%85/relentless-assault?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/3/4/34fd1962-1d11-4d4c-a273-73a1384a88f1.jpg?1675829370
+  normal: https://cards.scryfall.io/normal/front/3/4/34fd1962-1d11-4d4c-a273-73a1384a88f1.jpg?1675829370
+  large: https://cards.scryfall.io/large/front/3/4/34fd1962-1d11-4d4c-a273-73a1384a88f1.jpg?1675829370
+  png: https://cards.scryfall.io/png/front/3/4/34fd1962-1d11-4d4c-a273-73a1384a88f1.png?1675829370
+  art_crop: https://cards.scryfall.io/art_crop/front/3/4/34fd1962-1d11-4d4c-a273-73a1384a88f1.jpg?1675829370
+  border_crop: https://cards.scryfall.io/border_crop/front/3/4/34fd1962-1d11-4d4c-a273-73a1384a88f1.jpg?1675829370
+mana_cost: "{2}{R}{R}"
+cmc: 4.0
+type_line: Sorcery
+oracle_text: Untap all creatures that attacked this turn. After this main phase, there
+  is an additional combat phase followed by an additional main phase.
+colors:
+- R
+color_identity:
+- R
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: e70c8572-4732-4e92-a140-b4e3c1c84c93
+set: 9ed
+set_name: Ninth Edition
+set_type: core
+set_uri: https://api.scryfall.com/sets/e70c8572-4732-4e92-a140-b4e3c1c84c93
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3A9ed&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/9ed?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/34fd1962-1d11-4d4c-a273-73a1384a88f1/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Adc1c0e8c-d0c1-445c-968f-7dec91e5d5fc&unique=prints
+collector_number: 212★
+digital: false
+rarity: rare
+flavor_text: '"Mercy? Mercy is for the playground, not the battleground."'
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Greg Hildebrandt
+artist_ids:
+- 020f967b-0d2f-4166-aabe-901dba8bc7ec
+illustration_id: fd95bbcd-db54-460b-bf0a-07c836b866b8
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 889
+penny_rank: 8429
+prices:
+  usd: 
+  usd_foil: '15.45'
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Relentless+Assault&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Relentless+Assault&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Relentless+Assault
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/12785?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Relentless+Assault&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Relentless+Assault&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

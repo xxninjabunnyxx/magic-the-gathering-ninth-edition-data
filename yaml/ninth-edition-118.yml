@@ -1,0 +1,111 @@
+---
+object: card
+id: 6b7a810f-de22-410a-aa08-333920ffdd1f
+oracle_id: 68413337-ddb9-46f8-8c8e-f3d2d672c652
+multiverse_ids:
+- 83034
+mtgo_id: 22277
+mtgo_foil_id: 22278
+tcgplayer_id: 12603
+cardmarket_id: 12307
+name: Coercion
+lang: en
+released_at: '2005-07-29'
+uri: https://api.scryfall.com/cards/6b7a810f-de22-410a-aa08-333920ffdd1f
+scryfall_uri: https://scryfall.com/card/9ed/118/coercion?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/6/b/6b7a810f-de22-410a-aa08-333920ffdd1f.jpg?1562736668
+  normal: https://cards.scryfall.io/normal/front/6/b/6b7a810f-de22-410a-aa08-333920ffdd1f.jpg?1562736668
+  large: https://cards.scryfall.io/large/front/6/b/6b7a810f-de22-410a-aa08-333920ffdd1f.jpg?1562736668
+  png: https://cards.scryfall.io/png/front/6/b/6b7a810f-de22-410a-aa08-333920ffdd1f.png?1562736668
+  art_crop: https://cards.scryfall.io/art_crop/front/6/b/6b7a810f-de22-410a-aa08-333920ffdd1f.jpg?1562736668
+  border_crop: https://cards.scryfall.io/border_crop/front/6/b/6b7a810f-de22-410a-aa08-333920ffdd1f.jpg?1562736668
+mana_cost: "{2}{B}"
+cmc: 3.0
+type_line: Sorcery
+oracle_text: Target opponent reveals their hand. You choose a card from it. That player
+  discards that card.
+colors:
+- B
+color_identity:
+- B
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: e70c8572-4732-4e92-a140-b4e3c1c84c93
+set: 9ed
+set_name: Ninth Edition
+set_type: core
+set_uri: https://api.scryfall.com/sets/e70c8572-4732-4e92-a140-b4e3c1c84c93
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3A9ed&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/9ed?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/6b7a810f-de22-410a-aa08-333920ffdd1f/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A68413337-ddb9-46f8-8c8e-f3d2d672c652&unique=prints
+collector_number: '118'
+digital: false
+rarity: common
+flavor_text: '"Of all I that I have lost, I miss my mind the most."'
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: DiTerlizzi
+artist_ids:
+- ed44dce4-30cf-4c2c-b2e1-a19ba2295690
+illustration_id: a2680d9e-36cf-4f3f-97f6-b1c0ea17722d
+border_color: white
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 17972
+penny_rank: 11319
+prices:
+  usd: '0.04'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.05'
+  eur_foil: 
+  tix: '0.04'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=83034
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Coercion&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Coercion&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Coercion
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/12603?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Coercion&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/22277?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

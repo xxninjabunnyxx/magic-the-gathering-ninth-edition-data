@@ -1,0 +1,105 @@
+---
+object: card
+id: f3ef53aa-e923-42c0-ac9b-4b712da6ce99
+oracle_id: b2e1a1c4-9147-4dfc-b202-c3d3f9c2d3dc
+multiverse_ids: []
+tcgplayer_id: 12694
+name: Horror of Horrors
+lang: en
+released_at: '2005-07-29'
+uri: https://api.scryfall.com/cards/f3ef53aa-e923-42c0-ac9b-4b712da6ce99
+scryfall_uri: https://scryfall.com/card/9ed/140%E2%98%85/horror-of-horrors?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/f/3/f3ef53aa-e923-42c0-ac9b-4b712da6ce99.jpg?1675829271
+  normal: https://cards.scryfall.io/normal/front/f/3/f3ef53aa-e923-42c0-ac9b-4b712da6ce99.jpg?1675829271
+  large: https://cards.scryfall.io/large/front/f/3/f3ef53aa-e923-42c0-ac9b-4b712da6ce99.jpg?1675829271
+  png: https://cards.scryfall.io/png/front/f/3/f3ef53aa-e923-42c0-ac9b-4b712da6ce99.png?1675829271
+  art_crop: https://cards.scryfall.io/art_crop/front/f/3/f3ef53aa-e923-42c0-ac9b-4b712da6ce99.jpg?1675829271
+  border_crop: https://cards.scryfall.io/border_crop/front/f/3/f3ef53aa-e923-42c0-ac9b-4b712da6ce99.jpg?1675829271
+mana_cost: "{3}{B}{B}"
+cmc: 5.0
+type_line: Enchantment
+oracle_text: 'Sacrifice a Swamp: Regenerate target black creature. (The next time
+  that creature would be destroyed this turn, it isn''t. Instead tap it, remove all
+  damage from it, and remove it from combat.)'
+colors:
+- B
+color_identity:
+- B
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: e70c8572-4732-4e92-a140-b4e3c1c84c93
+set: 9ed
+set_name: Ninth Edition
+set_type: core
+set_uri: https://api.scryfall.com/sets/e70c8572-4732-4e92-a140-b4e3c1c84c93
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3A9ed&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/9ed?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/f3ef53aa-e923-42c0-ac9b-4b712da6ce99/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab2e1a1c4-9147-4dfc-b202-c3d3f9c2d3dc&unique=prints
+collector_number: 140★
+digital: false
+rarity: uncommon
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Simon Bisley
+artist_ids:
+- 2934abb6-905a-40fe-8f83-02d2806d4f8f
+illustration_id: 84fb44e3-5da7-4ecf-b409-ddc4146acf48
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 21573
+prices:
+  usd: 
+  usd_foil: '3.99'
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Horror+of+Horrors&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Horror+of+Horrors&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Horror+of+Horrors
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/12694?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Horror+of+Horrors&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Horror+of+Horrors&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

@@ -1,0 +1,110 @@
+---
+object: card
+id: f7cb5f66-d9f0-4af5-8d6b-14e1f3eef351
+oracle_id: 32116127-cf96-4a1b-8896-a1ebc087b597
+multiverse_ids: []
+tcgplayer_id: 12721
+name: Llanowar Wastes
+lang: en
+released_at: '2005-07-29'
+uri: https://api.scryfall.com/cards/f7cb5f66-d9f0-4af5-8d6b-14e1f3eef351
+scryfall_uri: https://scryfall.com/card/9ed/322%E2%98%85/llanowar-wastes?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/f/7/f7cb5f66-d9f0-4af5-8d6b-14e1f3eef351.jpg?1675829648
+  normal: https://cards.scryfall.io/normal/front/f/7/f7cb5f66-d9f0-4af5-8d6b-14e1f3eef351.jpg?1675829648
+  large: https://cards.scryfall.io/large/front/f/7/f7cb5f66-d9f0-4af5-8d6b-14e1f3eef351.jpg?1675829648
+  png: https://cards.scryfall.io/png/front/f/7/f7cb5f66-d9f0-4af5-8d6b-14e1f3eef351.png?1675829648
+  art_crop: https://cards.scryfall.io/art_crop/front/f/7/f7cb5f66-d9f0-4af5-8d6b-14e1f3eef351.jpg?1675829648
+  border_crop: https://cards.scryfall.io/border_crop/front/f/7/f7cb5f66-d9f0-4af5-8d6b-14e1f3eef351.jpg?1675829648
+mana_cost: ''
+cmc: 0.0
+type_line: Land
+oracle_text: |-
+  {T}: Add {C}.
+  {T}: Add {B} or {G}. Llanowar Wastes deals 1 damage to you.
+colors: []
+color_identity:
+- B
+- G
+keywords: []
+produced_mana:
+- B
+- C
+- G
+legalities:
+  standard: legal
+  future: legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: legal
+  historicbrawl: legal
+  alchemy: legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: e70c8572-4732-4e92-a140-b4e3c1c84c93
+set: 9ed
+set_name: Ninth Edition
+set_type: core
+set_uri: https://api.scryfall.com/sets/e70c8572-4732-4e92-a140-b4e3c1c84c93
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3A9ed&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/9ed?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/f7cb5f66-d9f0-4af5-8d6b-14e1f3eef351/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A32116127-cf96-4a1b-8896-a1ebc087b597&unique=prints
+collector_number: 322★
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Rob Alexander
+artist_ids:
+- 35906871-6c78-4ab2-9ed1-e6792c8efb74
+illustration_id: eb4eaa2d-e169-4bdb-b815-d441c9aef3fb
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 185
+penny_rank: 58
+prices:
+  usd: 
+  usd_foil: '15.00'
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Llanowar+Wastes&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Llanowar+Wastes&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Llanowar+Wastes
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/12721?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Llanowar+Wastes&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Llanowar+Wastes&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
